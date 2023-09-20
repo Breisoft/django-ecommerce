@@ -1,0 +1,5 @@
+django
+djangorestframework
+djangorestframework-simplejwt
+djangorestframework-camel-case
+factory_boy
